@@ -45,6 +45,24 @@
   </a>
 </div>
 
-![](https://www.youtube.com/watch?v=wVo-UMit5Ig)
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffff00&size=35&center=true&vCenter=true&width=1000&lines=O+que+é+o+mongoDB?" alt="O que é o mongoDB?"/>
+</div>
+
+<div align="center">
+  O MongoDB é um banco de dados NoSQL, o que significa que ele não segue o modelo tradicional de banco de dados <br>
+  relacional (SQL) que você pode ter estudado antes. Em vez disso, ele usa documentos para lidar com grandes volumes <br>
+  de dados. Em geral, ele é perfeito para aplicações como essas, ou aplicações de sistema de posts, mensagens etc. <br>
+  Nesse projeto, utilizo o pacote <b>Mongoose</b> para realizar uma conexão com o banco de dados mongo. Documentos em <br>
+  mongo seguem uma sintaxe semelhante aos objetos/dicionários do Node e Python. A seguir deixarei um link levando ao <br>
+  mongoDB Atlas, uma maneira super prática de criar um banco de dados já hospedado em um servidor seguro. Ele pode ser <br>
+  usado 100% de graça, porém é pago se quiser mais armazenamento. <br><br>
+
+  <a href="https://www.mongodb.com/atlas/database">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=whit">
+  </a>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=footer"/>
