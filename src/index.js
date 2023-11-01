@@ -5,7 +5,7 @@ import userRoutes from './routes/user.js';
 
 dotenv.config();
 
-mongoose.connect(process.env.MONGODB, { useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect(process.env.MONGODB)
     .then(() => console.log('Conexão foi estabelecida.'))
     .catch(err => console.error('Conexão não foi estabelecida. Error: ', err));
 
