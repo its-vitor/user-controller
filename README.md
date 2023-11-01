@@ -52,13 +52,14 @@
 </div>
 
 <div align="center">
-  O MongoDB é um banco de dados NoSQL, o que significa que ele não segue o modelo tradicional de banco de dados <br>
-  relacional (SQL) que você pode ter estudado antes. Em vez disso, ele usa documentos para lidar com grandes volumes <br>
-  de dados. Em geral, ele é perfeito para aplicações como essas, ou aplicações de sistema de posts, mensagens etc. <br>
-  Nesse projeto, utilizo o pacote <b>Mongoose</b> para realizar uma conexão com o banco de dados mongo. Documentos em <br>
-  mongo seguem uma sintaxe semelhante aos objetos/dicionários do Node e Python. A seguir deixarei um link levando ao <br>
-  mongoDB Atlas, uma maneira super prática de criar um banco de dados já hospedado em um servidor seguro. Ele pode ser <br>
-  usado 100% de graça, porém é pago se quiser mais armazenamento. <br><br>
+  O MongoDB é um banco de dados NoSQL, o que significa que ele não segue o modelo tradicional de <br> 
+  banco de dados relacional (SQL) que você pode ter estudado antes. Em vez disso, ele usa documentos<br>
+  para lidar com grandes volumes de dados. Em geral, ele é perfeito para aplicações como essas, ou <br>
+  aplicações de sistema de posts, mensagens etc. Nesse projeto, utilizo o pacote <b>Mongoose</b> para <br>
+  realizar uma conexão com o banco de dados mongo. Documentos em mongo seguem uma sintaxe semelhante <br>
+  aos objetos/dicionários do Node e Python. A seguir deixarei um link levando ao mongoDB Atlas, uma <br>
+  maneira super prática de criar um banco de dados já hospedado em um servidor seguro. Ele pode ser <br>
+  usado 100% de graça, porém é pago se quiser mais armazenamento.<br><br>
 
   <a href="https://www.mongodb.com/atlas/database">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=whit">
