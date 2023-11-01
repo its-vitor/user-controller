@@ -39,7 +39,12 @@
   envia informações com diferentes métodos muito conhecidos na Web, exemplo: POST, GET, DELETE, TRACE etc. <br>
   Esse pacote é uma ótima tecnologia para o desenvolvimento de aplicações de pequena e larga escala, tanto <br>
   trabalhando com respostas JSON como imagens, CSS e HTML's. Uma ferramenta poderosa desse jeito mereceria um <br>
-  blog inteiro a seu respeito, porém irei resumir um pouco do seu uso!
+  blog inteiro a seu respeito, porém irei deixar alguns vídeos sobre o tema que explicam um pouco mais sobre. <br><br>
+  <a href="https://www.youtube.com/watch?v=wVo-UMit5Ig">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </div>
+
+![](https://www.youtube.com/watch?v=wVo-UMit5Ig)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=footer"/>
