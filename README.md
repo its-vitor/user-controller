@@ -1,4 +1,5 @@
 <p align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=header"/>
   <img src="https://github.com/its-vitor/user-controller-api/assets/146399948/f7648008-13fa-432a-9400-f5805d0e9735" style="width: 600px;">
 </p>
 <table align="center">
@@ -15,4 +16,4 @@
     </td>
   </tr>
 </table>
-<br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=footer"/>
