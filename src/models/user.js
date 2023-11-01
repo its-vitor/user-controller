@@ -45,7 +45,7 @@ function createUserModel() {
         return bcrypt.compare(password, this.password);
     };
 
-    return mongoose.model('User', user);
+    return mongoose.model('User', user, 'Accounts');
 }
 
 
@@ -57,4 +57,3 @@ export const userModel = createUserModel();
 export const registerUser = async (username, email, password) => {
     return await new userModel({username, email, password}).save()
 };
-

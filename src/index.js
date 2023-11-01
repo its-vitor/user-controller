@@ -1,3 +1,14 @@
-import express from 'express'
+import express from 'express';
+import mongoose from 'mongoose';
+import dotenv from 'dotenv';
+import userRoutes from './routes/user.js';
 
-const app = express()
+dotenv.config();
+
+mongoose.connect(process.env.MONGODB, { useNewUrlParser: true, useUnifiedTopology: true })
+    .then(() => console.log('Conexão foi estabelecida.'))
+    .catch(err => console.error('Conexão não foi estabelecida. Error: ', err));
+
+const app = express();
+
+app.use(userRoutes);
