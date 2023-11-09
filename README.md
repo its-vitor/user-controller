@@ -50,7 +50,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffff00&size=35&center=true&vCenter=true&width=1000&lines=O+que+é+o+mongoDB?" alt="O que é o mongoDB?"/>
 </div>
-
+ 
 <div align="center">
   O MongoDB é um banco de dados NoSQL, o que significa que ele não segue o modelo tradicional de <br> 
   banco de dados relacional (SQL) que você pode ter estudado antes. Em vez disso, ele usa documentos<br>
